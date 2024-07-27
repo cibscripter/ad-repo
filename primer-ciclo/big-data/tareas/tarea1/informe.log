@@ -1,0 +1,730 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.13)  23 JUL 2024 02:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**informe.tex
+(./informe.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language6
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen150
+\enit@toks=\toks21
+\enit@inbox=\box50
+\enit@count@id=\count199
+\enitdp@description=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count267
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count271
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen152
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count272
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box51
+\UL@hyphenbox=\box52
+\UL@skip=\skip51
+\UL@hook=\toks22
+\UL@height=\dimen155
+\UL@pe=\count278
+\UL@pixel=\dimen156
+\ULC@box=\box53
+Package: ulem 2019/11/18
+\ULdepth=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen158
+\captionmargin@=\dimen159
+\captionwidth=\dimen160
+\caption@tempdima=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count281
+\c@subtable=\count282
+)
+(../../../../gdocs/portada-tareas/formato.tex)
+(../../../../gdocs/portada-tareas/definicion.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box54
+)
+(./informe.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen165
+\scratchbox=\box55
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen166
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count290
+)
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
+
+(./informe.out) (./informe.out)
+\@outlinefile=\write3
+\openout3 = `informe.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (../../../../gdocs/portada-tareas/plantilla.tex
+<../../../../gdocs/img/logo-ista.png, id=60, 220.4235pt x 250.536pt>
+File: ../../../../gdocs/img/logo-ista.png Graphic file (type png)
+<use ../../../../gdocs/img/logo-ista.png>
+Package pdftex.def Info: ../../../../gdocs/img/logo-ista.png  used on input lin
+e 5.
+(pdftex.def)             Requested size: 51.67337pt x 58.73068pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../../../../gdocs/img/logo
+-ista.png>]) (./informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `informe.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39     \newpage
+                  [1] [2]
+<img/openrefine-1.png, id=95, 538.26094pt x 98.61844pt>
+File: img/openrefine-1.png Graphic file (type png)
+<use img/openrefine-1.png>
+Package pdftex.def Info: img/openrefine-1.png  used on input line 77.
+(pdftex.def)             Requested size: 375.80574pt x 68.85486pt.
+ [3 <./img/openrefine-1.png (PNG copy)>]
+<img/openrefine-2.png, id=103, 777.65532pt x 272.51813pt>
+File: img/openrefine-2.png Graphic file (type png)
+<use img/openrefine-2.png>
+Package pdftex.def Info: img/openrefine-2.png  used on input line 87.
+(pdftex.def)             Requested size: 328.82733pt x 115.23442pt.
+<img/openrefine-3.png, id=104, 234.1247pt x 141.52875pt>
+File: img/openrefine-3.png Graphic file (type png)
+<use img/openrefine-3.png>
+Package pdftex.def Info: img/openrefine-3.png  used on input line 92.
+(pdftex.def)             Requested size: 187.89928pt x 113.59242pt.
+<img/openrefine-4.png, id=105, 629.35126pt x 133.24782pt>
+File: img/openrefine-4.png Graphic file (type png)
+<use img/openrefine-4.png>
+Package pdftex.def Info: img/openrefine-4.png  used on input line 97.
+(pdftex.def)             Requested size: 328.82733pt x 69.62067pt.
+<img/openrefine-5.png, id=106, 529.98pt x 161.10187pt>
+File: img/openrefine-5.png Graphic file (type png)
+<use img/openrefine-5.png>
+Package pdftex.def Info: img/openrefine-5.png  used on input line 102.
+(pdftex.def)             Requested size: 328.82733pt x 99.95587pt.
+<img/openrefine-6.png, id=107, 398.99063pt x 243.15843pt>
+File: img/openrefine-6.png Graphic file (type png)
+<use img/openrefine-6.png>
+Package pdftex.def Info: img/openrefine-6.png  used on input line 107.
+(pdftex.def)             Requested size: 281.8561pt x 171.77919pt.
+ [4 <./img/openrefine-2.png (PNG copy)> <./img/openrefine-3.png (PNG copy)> <./
+img/openrefine-4.png (PNG copy)> <./img/openrefine-5.png (PNG copy)> <./img/ope
+nrefine-6.png (PNG copy)>]
+<img/openrefine-7.png, id=114, 853.68938pt x 457.71pt>
+File: img/openrefine-7.png Graphic file (type png)
+<use img/openrefine-7.png>
+Package pdftex.def Info: img/openrefine-7.png  used on input line 117.
+(pdftex.def)             Requested size: 422.77698pt x 226.6754pt.
+<img/openrefine-8.png, id=115, 1129.97156pt x 387.69844pt>
+File: img/openrefine-8.png Graphic file (type png)
+<use img/openrefine-8.png>
+Package pdftex.def Info: img/openrefine-8.png  used on input line 124.
+(pdftex.def)             Requested size: 469.75539pt x 161.16989pt.
+ [5 <./img/openrefine-7.png (PNG copy)> <./img/openrefine-8.png (PNG copy)>]
+<img/openrefine-9.png, id=122, 490.08093pt x 344.78813pt>
+File: img/openrefine-9.png Graphic file (type png)
+<use img/openrefine-9.png>
+Package pdftex.def Info: img/openrefine-9.png  used on input line 132.
+(pdftex.def)             Requested size: 328.82733pt x 231.3488pt.
+<img/openrefine-10.png, id=123, 231.11343pt x 269.50688pt>
+File: img/openrefine-10.png Graphic file (type png)
+<use img/openrefine-10.png>
+Package pdftex.def Info: img/openrefine-10.png  used on input line 139.
+(pdftex.def)             Requested size: 187.89928pt x 219.1136pt.
+<img/openrefine-11.png, id=124, 463.7325pt x 365.86688pt>
+File: img/openrefine-11.png Graphic file (type png)
+<use img/openrefine-11.png>
+Package pdftex.def Info: img/openrefine-11.png  used on input line 146.
+(pdftex.def)             Requested size: 187.89928pt x 148.24785pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/openrefine-12.png, id=125, 1056.94875pt x 341.77687pt>
+File: img/openrefine-12.png Graphic file (type png)
+<use img/openrefine-12.png>
+Package pdftex.def Info: img/openrefine-12.png  used on input line 153.
+(pdftex.def)             Requested size: 469.75539pt x 151.89987pt.
+[6 <./img/openrefine-9.png (PNG copy)> <./img/openrefine-10.png (PNG copy)>]
+[7 <./img/openrefine-11.png (PNG copy)> <./img/openrefine-12.png (PNG copy)>]
+<img/openrefine-13.png, id=140, 228.855pt x 155.83218pt>
+File: img/openrefine-13.png Graphic file (type png)
+<use img/openrefine-13.png>
+Package pdftex.def Info: img/openrefine-13.png  used on input line 161.
+(pdftex.def)             Requested size: 187.89928pt x 127.94966pt.
+<img/openrefine-14.png, id=141, 80.55093pt x 66.2475pt>
+File: img/openrefine-14.png Graphic file (type png)
+<use img/openrefine-14.png>
+Package pdftex.def Info: img/openrefine-14.png  used on input line 168.
+(pdftex.def)             Requested size: 140.92804pt x 115.90855pt.
+
+[8 <./img/openrefine-13.png (PNG copy)> <./img/openrefine-14.png (PNG copy)>]
+<img/openrefine-15.png, id=148, 536.75531pt x 392.96812pt>
+File: img/openrefine-15.png Graphic file (type png)
+<use img/openrefine-15.png>
+Package pdftex.def Info: img/openrefine-15.png  used on input line 176.
+(pdftex.def)             Requested size: 281.8561pt x 206.35332pt.
+<img/openrefine-16.png, id=149, 532.23843pt x 389.20406pt>
+File: img/openrefine-16.png Graphic file (type png)
+<use img/openrefine-16.png>
+Package pdftex.def Info: img/openrefine-16.png  used on input line 183.
+(pdftex.def)             Requested size: 281.8561pt x 206.11682pt.
+
+[9 <./img/openrefine-15.png (PNG copy)> <./img/openrefine-16.png (PNG copy)>]
+<img/openrefine-17.png, id=156, 469.00218pt x 428.35031pt>
+File: img/openrefine-17.png Graphic file (type png)
+<use img/openrefine-17.png>
+Package pdftex.def Info: img/openrefine-17.png  used on input line 191.
+(pdftex.def)             Requested size: 281.8561pt x 257.42393pt.
+<img/openrefine-18.png, id=157, 532.23843pt x 387.69844pt>
+File: img/openrefine-18.png Graphic file (type png)
+<use img/openrefine-18.png>
+Package pdftex.def Info: img/openrefine-18.png  used on input line 199.
+(pdftex.def)             Requested size: 281.8561pt x 205.31946pt.
+
+Overfull \hbox (35.95995pt too wide) in paragraph at lines 196--202
+\OT1/cmr/m/n/12 guien-te c^^Sodi-go \OT1/cmr/m/it/12 round(sum(row.record.cells
+['Age'].value) / length(row.record.cells['Age'].value))
+ []
+
+<img/openrefine-19.png, id=158, 459.96844pt x 393.72093pt>
+File: img/openrefine-19.png Graphic file (type png)
+<use img/openrefine-19.png>
+Package pdftex.def Info: img/openrefine-19.png  used on input line 206.
+(pdftex.def)             Requested size: 281.8561pt x 241.27483pt.
+[10 <./img/openrefine-17.png (PNG copy)> <./img/openrefine-18.png (PNG copy)>]
+<img/openrefine-20.png, id=166, 301.8778pt x 252.945pt>
+File: img/openrefine-20.png Graphic file (type png)
+<use img/openrefine-20.png>
+Package pdftex.def Info: img/openrefine-20.png  used on input line 214.
+(pdftex.def)             Requested size: 234.87769pt x 196.80612pt.
+<img/openrefine-21.png, id=167, 224.33812pt x 67.75313pt>
+File: img/openrefine-21.png Graphic file (type png)
+<use img/openrefine-21.png>
+Package pdftex.def Info: img/openrefine-21.png  used on input line 221.
+(pdftex.def)             Requested size: 187.89928pt x 56.74991pt.
+
+[11 <./img/openrefine-19.png (PNG copy)> <./img/openrefine-20.png (PNG copy)>]
+<img/openrefine-22.png, id=174, 532.99126pt x 380.17032pt>
+File: img/openrefine-22.png Graphic file (type png)
+<use img/openrefine-22.png>
+Package pdftex.def Info: img/openrefine-22.png  used on input line 229.
+(pdftex.def)             Requested size: 281.8561pt x 201.04843pt.
+
+[12 <./img/openrefine-21.png (PNG copy)> <./img/openrefine-22.png (PNG copy)>]
+<img/openrefine-23.png, id=182, 1202.24156pt x 373.395pt>
+File: img/openrefine-23.png Graphic file (type png)
+<use img/openrefine-23.png>
+Package pdftex.def Info: img/openrefine-23.png  used on input line 237.
+(pdftex.def)             Requested size: 469.75539pt x 145.89694pt.
+<img/openrefine-24.png, id=183, 224.33812pt x 129.48375pt>
+File: img/openrefine-24.png Graphic file (type png)
+<use img/openrefine-24.png>
+Package pdftex.def Info: img/openrefine-24.png  used on input line 244.
+(pdftex.def)             Requested size: 140.92804pt x 81.34401pt.
+
+[13 <./img/openrefine-23.png (PNG copy)> <./img/openrefine-24.png (PNG copy)>]
+<img/weka-1.png, id=191, 944.02687pt x 277.035pt>
+File: img/weka-1.png Graphic file (type png)
+<use img/weka-1.png>
+Package pdftex.def Info: img/weka-1.png  used on input line 259.
+(pdftex.def)             Requested size: 469.75539pt x 137.85771pt.
+
+[14 <./img/weka-1.png (PNG copy)>]
+<img/weka-2.png, id=198, 863.47594pt x 508.90125pt>
+File: img/weka-2.png Graphic file (type png)
+<use img/weka-2.png>
+Package pdftex.def Info: img/weka-2.png  used on input line 275.
+(pdftex.def)             Requested size: 328.82733pt x 193.79604pt.
+<img/weka-3.png, id=199, 768.62157pt x 566.86781pt>
+File: img/weka-3.png Graphic file (type png)
+<use img/weka-3.png>
+Package pdftex.def Info: img/weka-3.png  used on input line 282.
+(pdftex.def)             Requested size: 281.8561pt x 207.87811pt.
+<img/weka-4.png, id=200, 766.36313pt x 575.14874pt>
+File: img/weka-4.png Graphic file (type png)
+<use img/weka-4.png>
+Package pdftex.def Info: img/weka-4.png  used on input line 289.
+(pdftex.def)             Requested size: 281.8561pt x 211.52917pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./img/weka-2.png (PNG copy)> <./img/weka-3.png (PNG copy)>]
+<img/weka-5.png, id=207, 752.8125pt x 450.9347pt>
+File: img/weka-5.png Graphic file (type png)
+<use img/weka-5.png>
+Package pdftex.def Info: img/weka-5.png  used on input line 303.
+(pdftex.def)             Requested size: 281.8561pt x 168.83174pt.
+ [16 <./img/weka-4.png (PNG copy)> <./img/weka-5.png (PNG copy)>]
+<img/weka-6.png, id=214, 380.92313pt x 260.47313pt>
+File: img/weka-6.png Graphic file (type png)
+<use img/weka-6.png>
+Package pdftex.def Info: img/weka-6.png  used on input line 311.
+(pdftex.def)             Requested size: 234.87769pt x 160.60535pt.
+<img/weka-7.png, id=215, 765.6103pt x 51.94406pt>
+File: img/weka-7.png Graphic file (type png)
+<use img/weka-7.png>
+Package pdftex.def Info: img/weka-7.png  used on input line 318.
+(pdftex.def)             Requested size: 469.75539pt x 31.87129pt.
+ [17 <./img/weka-6.png (PNG copy)> <./img/weka-7.png (PNG copy)>]
+<img/weka-8.png, id=222, 1093.83656pt x 572.1375pt>
+File: img/weka-8.png Graphic file (type png)
+<use img/weka-8.png>
+Package pdftex.def Info: img/weka-8.png  used on input line 344.
+(pdftex.def)             Requested size: 422.77698pt x 221.13353pt.
+<img/weka-9.png, id=223, 767.11594pt x 573.64313pt>
+File: img/weka-9.png Graphic file (type png)
+<use img/weka-9.png>
+Package pdftex.def Info: img/weka-9.png  used on input line 350.
+(pdftex.def)             Requested size: 375.80574pt x 281.02632pt.
+ [18 <./img/weka-8.png (PNG copy)> <./img/weka-9.png (PNG copy)>]
+<img/weka-10.png, id=231, 761.84625pt x 572.1375pt>
+File: img/weka-10.png Graphic file (type png)
+<use img/weka-10.png>
+Package pdftex.def Info: img/weka-10.png  used on input line 357.
+(pdftex.def)             Requested size: 375.80574pt x 282.21806pt.
+<img/weka-11.png, id=232, 767.86874pt x 571.38469pt>
+File: img/weka-11.png Graphic file (type png)
+<use img/weka-11.png>
+Package pdftex.def Info: img/weka-11.png  used on input line 363.
+(pdftex.def)             Requested size: 375.80574pt x 279.64963pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <./img/weka-10.png (PNG copy)>] [20 <./img/weka-11.png (PNG copy)>]
+<img/weka-12.png, id=243, 766.36313pt x 573.64313pt>
+File: img/weka-12.png Graphic file (type png)
+<use img/weka-12.png>
+Package pdftex.def Info: img/weka-12.png  used on input line 397.
+(pdftex.def)             Requested size: 375.80574pt x 281.30641pt.
+
+[21 <./img/weka-12.png (PNG copy)>]
+<img/weka-13.png, id=249, 994.46532pt x 575.90157pt>
+File: img/weka-13.png Graphic file (type png)
+<use img/weka-13.png>
+Package pdftex.def Info: img/weka-13.png  used on input line 417.
+(pdftex.def)             Requested size: 375.80574pt x 217.63219pt.
+<img/weka-14.png, id=250, 763.35187pt x 575.14874pt>
+File: img/weka-14.png Graphic file (type png)
+<use img/weka-14.png>
+Package pdftex.def Info: img/weka-14.png  used on input line 423.
+(pdftex.def)             Requested size: 375.80574pt x 283.15053pt.
+ [22 <./img/weka-13.png (PNG copy)> <./img/weka-14.png (PNG copy)>]
+<img/weka-15.png, id=257, 768.62157pt x 572.1375pt>
+File: img/weka-15.png Graphic file (type png)
+<use img/weka-15.png>
+Package pdftex.def Info: img/weka-15.png  used on input line 436.
+(pdftex.def)             Requested size: 375.80574pt x 279.73871pt.
+<img/weka-16.png, id=258, 737.00343pt x 429.85594pt>
+File: img/weka-16.png Graphic file (type png)
+<use img/weka-16.png>
+Package pdftex.def Info: img/weka-16.png  used on input line 442.
+(pdftex.def)             Requested size: 375.80574pt x 219.18427pt.
+ [23 <./img/weka-15.png (PNG copy)> <./img/weka-16.png (PNG copy)>]
+<img/weka-17.png, id=265, 757.32938pt x 472.01344pt>
+File: img/weka-17.png Graphic file (type png)
+<use img/weka-17.png>
+Package pdftex.def Info: img/weka-17.png  used on input line 450.
+(pdftex.def)             Requested size: 375.80574pt x 234.22716pt.
+ [24 <./img/weka-17.png (PNG copy)>]
+<img/weka-18.png, id=272, 767.11594pt x 571.38469pt>
+File: img/weka-18.png Graphic file (type png)
+<use img/weka-18.png>
+Package pdftex.def Info: img/weka-18.png  used on input line 458.
+(pdftex.def)             Requested size: 328.82733pt x 244.9321pt.
+<img/weka-19.png, id=273, 590.95781pt x 446.41782pt>
+File: img/weka-19.png Graphic file (type png)
+<use img/weka-19.png>
+Package pdftex.def Info: img/weka-19.png  used on input line 464.
+(pdftex.def)             Requested size: 328.82733pt x 248.40512pt.
+ [25 <./img/weka-18.png (PNG copy)> <./img/weka-19.png (PNG copy)>] [26] [27] [
+28] [29] (./informe.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: 6A284BDC81139B555A3CC6A25CF1D512;1991.
+ ) 
+Here is how much of TeX's memory you used:
+ 12968 strings out of 480185
+ 210256 string characters out of 5894213
+ 522378 words of memory out of 5000000
+ 30638 multiletter control sequences out of 15000+600000
+ 474643 words of font info for 46 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 67i,8n,77p,772b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/eduardo/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.6
+00pk> </home/eduardo/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx172
+8.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on informe.pdf (30 pages, 2639003 bytes).
+PDF statistics:
+ 354 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
+

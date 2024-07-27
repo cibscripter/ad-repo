@@ -1,0 +1,3 @@
+## Matemática
+
+El cálculo diferencial e integral es un área fundamental de las matemáticas que se ocupa del estudio de las tasas de cambio de funciones (cálculo diferencial) y el cálculo de áreas bajo curvas o sumas acumulativas de funciones (cálculo integral). En el análisis de datos, el cálculo diferencial se utiliza para entender cómo cambian los datos en relación con variables independientes, esencial para modelar fenómenos y prever tendencias. Por otro lado, el cálculo integral permite calcular acumulaciones, promedios y totales bajo curvas, lo que es crucial para interpretar datos acumulativos o distribuciones continuas. 

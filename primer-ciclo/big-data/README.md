@@ -1,0 +1,3 @@
+## Introducción al Big Data
+
+Big data se refiere al conjunto de datos extremadamente grandes y complejos que no pueden ser procesados de manera efectiva con métodos tradicionales de análisis. Su rol fundamental en el análisis de datos radica en su capacidad para proporcionar insights y patrones ocultos a través de técnicas avanzadas de procesamiento y análisis. Al manejar grandes volúmenes de información, el big data permite a las organizaciones descubrir correlaciones significativas, tendencias del mercado, comportamientos del consumidor, y tomar decisiones informadas basadas en datos precisos y en tiempo real.

@@ -1,0 +1,3 @@
+## Introducción a la Programación
+
+Los fundamentos de la programación son los principios y técnicas básicas que permiten escribir y estructurar código de manera efectiva y comprensible. En el análisis de datos, estos fundamentos son esenciales ya que facilitan la automatización de tareas repetitivas, el procesamiento eficiente de grandes volúmenes de datos y la implementación de algoritmos complejos para extraer información significativa. La programación proporciona las herramientas para manipular datos, realizar cálculos estadísticos, visualizar resultados y desarrollar modelos predictivos, lo que ayuda a los analistas a explorar y explotar plenamente el potencial de los datos disponibles.

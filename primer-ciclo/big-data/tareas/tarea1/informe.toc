@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Paso a paso}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Kaggle Datasets}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}OpenRefine}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Weka}{14}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Errores y correcciones realizadas a la data}{26}{section.4}%
+\contentsline {section}{\numberline {5}Resultados del análisis de la data}{27}{section.5}%
+\contentsline {section}{\numberline {6}Conclusiones y recomendaciones}{28}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Conclusiones}{28}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Recomendaciones}{28}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Bibliografía}{29}{section.7}%

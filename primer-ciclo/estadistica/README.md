@@ -1,0 +1,3 @@
+## Fundamentos de Estadística
+
+La estadística descriptiva es una rama de la estadística que se centra en la organización, resumen y presentación de datos de manera informativa y significativa. Su rol principal en el análisis de datos es proporcionar herramientas y técnicas para describir y resumir características importantes de un conjunto de datos, como medidas de tendencia central (como la media y la mediana), dispersión (como la desviación estándar), distribución y forma. Esto permite a los analistas y científicos de datos comprender mejor la naturaleza de los datos, identificar patrones iniciales, y facilitar la toma de decisiones basada en evidencias sólidas.
